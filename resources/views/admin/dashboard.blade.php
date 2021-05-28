@@ -16,7 +16,7 @@
     <tbody>
       <tr>
         <td>1,001</td>
-        <td>random</td>
+        <td>rand</td>
         <td>data</td>
         <td>placeholder</td>
         <td>text</td>

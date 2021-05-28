@@ -24,8 +24,7 @@ Auth::routes();
 
 
 Route::get('/shop', function(){
-    return view('shop');
-})->name('shop');
+    return view('shop');})->name('shop');
 
 Route::middleware('auth')->group(function () {
     
